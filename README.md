@@ -1,4 +1,4 @@
-# TedLassoBizCard ⚽️
+# TedLassoBizCard
 
 A sleek, data-driven Business Card and Portfolio application built using **Android Jetpack Compose**. This project demonstrates modern UI development, state management, and asset handling in Android.
 
